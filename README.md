@@ -1,6 +1,4 @@
 # Hack day 1 reflections
-Some questions for reflective learning, engineering team.
-
 Hack Day 1 simulated your first real-world project.
 
 - You pull the codebase that exists
@@ -8,6 +6,8 @@ Hack Day 1 simulated your first real-world project.
 - You figure out what is missing from the codebase to add that feature
 - The team adds the feature
 - You release the feature to users
+
+Here are some questions for reflective learning (engineering team)
 
 ## Unknown unknowns
 It is never the things you know how to do that kill a project - it is the things you don't see coming.
